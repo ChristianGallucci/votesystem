@@ -45,16 +45,14 @@
             <span class="glyphicon glyphicon-lock form-control-feedback"></span>
           </div>
       		<div class="row">
+				<div class="col-xs-4">
+        		</div>
     			<div class="col-xs-4">
           			<button type="submit" class="btn btn-success btn-block btn-flat" name="login"><i class="fa fa-sign-in"></i> Sign In</button>
         		</div>
-				<div class="col-xs-4">
-				</div>
-				<div class="col-xs-4 col-lg-4 col-lg-offset-0">
-						<a href="register.php" class="btn btn-success btn-block btn-flat" i class="fa fa-sign-in"> Register</a>
-				</div>
       		</div>
     	</form>
+		<center><a href="register.php" class="text-center">Register Here</a></center>
   	</div>
   	<?php
   		if(isset($_SESSION['error'])){

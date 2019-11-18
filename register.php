@@ -47,25 +47,19 @@
     			<div class="col-xs-4">
           			<button type="submit" class="btn btn-success btn-block btn-flat" name="reg_user"><i class="fa fa-sign-in"></i> Register</button>
         		</div>
-				<div class="col-xs-4">
-				</div>
-				<div class="col-xs-4 col-lg-4 col-lg-offset-0">
-						<a href="index.php" class="btn btn-success btn-block btn-flat" i class="fa fa-sign-in"> Sign In</a>
-				</div>
       		</div>
     	</form>
+		<center><a href="index.php" class="text-center">Sign In Here</a></center>
   	</div>
-  	<?php
-  		if(isset($_SESSION['error'])){
-  			echo "
+  	<?php  if (count($errors) > 0) : ?>
+  		
   				<div class='callout callout-danger text-center mt20'>
-			  		<p>".$_SESSION['error']."</p>
+			  	     	<?php foreach ($errors as $error) : ?>
+  	 						 <p><?php echo $error ?></p>
+  						<?php endforeach ?>
+				  </div>
 			  	</div>
-  			";
-  			unset($_SESSION['error']);
-  		}
-  	?>
-</div>
+  		<?php  endif ?>
 
 <?php include 'includes/scripts.php' ?>
 </body>
