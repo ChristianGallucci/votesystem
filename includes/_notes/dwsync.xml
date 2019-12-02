@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="conn.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166039931598431" remote="132166039930000000" Dst="2" />
-<file name="header.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166549143867656" remote="132166549140000000" Dst="2" />
-<file name="scripts.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166717866829717" remote="132166717860000000" Dst="2" />
-<file name="session.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166039933909326" remote="132166039930000000" Dst="2" />
-<file name="navbar.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132167695607711035" remote="132167695600000000" Dst="2" />
-<file name="slugify.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166039934397992" remote="132166039930000000" Dst="2" />
-<file name="footer.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166597241141988" remote="132166597240000000" Dst="2" />
-<file name="ballot_modal.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166613799047068" remote="132166613790000000" Dst="2" />
+<file name="conn.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166039931598431" remote="132166075930000000" Dst="1" />
+<file name="header.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166549143867656" remote="132166585140000000" Dst="1" />
+<file name="scripts.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132178257875828732" remote="132178257870000000" Dst="1" />
+<file name="session.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132192546819867157" remote="132192546810000000" Dst="1" />
+<file name="navbar.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132182375112629009" remote="132182375110000000" Dst="1" />
+<file name="slugify.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166039934397992" remote="132166075930000000" Dst="1" />
+<file name="footer.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166597241141988" remote="132166633240000000" Dst="1" />
+<file name="ballot_modal.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166613799047068" remote="132166649790000000" Dst="1" />
 <file name="profile_modal.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132167680210000000" remote="132167680210000000" Dst="2" />
+<file name="menubar.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132192915203532456" remote="132192915200000000" Dst="1" />
 </dwsync>

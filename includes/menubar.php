@@ -19,6 +19,7 @@
       <li class=""><a href="home.php"><i class="fa fa-edit"></i> <span>Polls</span></a></li>
       <li class=""><a href="candidates.php"><i class="fa fa-users"></i> <span>Candidates</span></a></li>
 	  <li class=""><a href="results.php"><i class="fa fa-tasks"></i> <span>Results</span></a></li>
+	  <li class=""><a href="pollRequest.php"><i class="fa fa-edit"></i> <span>Poll Request</span></a></li>
     </ul>
   </section>
   <!-- /.sidebar -->

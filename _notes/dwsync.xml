@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="login.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036902707981" remote="132166036900000000" Dst="2" />
-<file name="index.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166887123141523" remote="132166887120000000" Dst="2" />
-<file name="submit_ballot.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036903465436" remote="132166036900000000" Dst="2" />
-<file name="home.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166712563008001" remote="132166712560000000" Dst="2" />
+<file name="login.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132192904556424178" remote="132192904550000000" Dst="1" />
+<file name="index.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132192906254352330" remote="132192906250000000" Dst="1" />
+<file name="submit_ballot.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036903465436" remote="132166072900000000" Dst="1" />
+<file name="home.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132181695946190240" remote="132181695940000000" Dst="1" />
 <file name="results.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166621210000000" remote="132166621210000000" Dst="2" />
 <file name="profile_update.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132167706928677012" remote="132167706920000000" Dst="2" />
+<file name="homepage.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132178258419443545" remote="132178258410000000" Dst="1" />
+<file name="pollRequest.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132181773429668773" remote="132181773420000000" Dst="1" />
+<file name="server.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132184248927415577" remote="132184248920000000" Dst="1" />
+<file name="register.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132184240539994545" remote="132184240530000000" Dst="1" />
+<file name="candidates.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132181780355906140" remote="132181780350000000" Dst="1" />
 </dwsync>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="login.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036907624325" remote="132166072900000000" Dst="1" />
+<file name="index.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132179049617895788" remote="132179049610000000" Dst="1" />
+<file name="home.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191972204601973" remote="132191972200000000" Dst="1" />
+<file name="positions.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132181682308641356" remote="132181682300000000" Dst="1" />
+<file name="candidates.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132181697870811737" remote="132181697870000000" Dst="1" />
+<file name="voters.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132178130829365173" remote="132178130820000000" Dst="1" />
+<file name="votes.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191986064520691" remote="132191986060000000" Dst="1" />
+<file name="positions_add.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191986063481266" remote="132191986060000000" Dst="1" />
+<file name="ballot.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166721507026843" remote="132166757500000000" Dst="1" />
+<file name="profile_update.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036909549583" remote="132166072900000000" Dst="1" />
+<file name="ballot_down.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036904044274" remote="132166072900000000" Dst="1" />
+<file name="ballot_fetch.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036904303202" remote="132166072900000000" Dst="1" />
+<file name="ballot_up.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036904612879" remote="132166072900000000" Dst="1" />
+<file name="candidates_add.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191983854848831" remote="132191983850000000" Dst="1" />
+<file name="candidates_delete.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191983855063697" remote="132191983850000000" Dst="1" />
+<file name="candidates_edit.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036905649945" remote="132166072900000000" Dst="1" />
+<file name="candidates_photo.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036905879320" remote="132166072900000000" Dst="1" />
+<file name="candidates_row.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036906098762" remote="132166072900000000" Dst="1" />
+<file name="config_save.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036906527239" remote="132166072900000000" Dst="1" />
+<file name="config.ini" server="D:/Programs/xampp/htdocs/votesystem/" local="132166579831198183" remote="132166615830000000" Dst="1" />
+<file name="logout.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036907824119" remote="132166072900000000" Dst="1" />
+<file name="positions_delete.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191986063646340" remote="132191986060000000" Dst="1" />
+<file name="positions_edit.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191986063809323" remote="132191986060000000" Dst="1" />
+<file name="positions_row.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036909051445" remote="132166072900000000" Dst="1" />
+<file name="print.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036909319794" remote="132166072900000000" Dst="1" />
+<file name="voters_add.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191985441652614" remote="132191985440000000" Dst="1" />
+<file name="voters_delete.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132191985442061155" remote="132191985440000000" Dst="1" />
+<file name="voters_edit.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132178128591241871" remote="132178128590000000" Dst="1" />
+<file name="voters_photo.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036911075080" remote="132166072910000000" Dst="1" />
+<file name="voters_row.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036911294493" remote="132166072910000000" Dst="1" />
+<file name="votes_reset.php" server="D:/Programs/xampp/htdocs/votesystem/" local="132166036911783579" remote="132166072910000000" Dst="1" />
+</dwsync>

@@ -5,6 +5,7 @@
 	if(isset($_POST['login'])){
 		$voter = $_POST['voter'];
 		$password = $_POST['password'];
+	
 
 		$sql = "SELECT * FROM voters WHERE voters_id = '$voter'";
 		$query = $conn->query($sql);
